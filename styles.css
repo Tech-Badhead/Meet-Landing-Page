@@ -243,7 +243,7 @@ header {
 
 .overlay h2 {
   font-size: 2.5rem;
-  font-weight: 700;
+  font-weight: 900;
   margin-bottom: 1.5rem;
   color: #fafafa;
   width: 400px;
@@ -301,7 +301,7 @@ header {
     max-width: 67%;
   }
 
-  .main-content-text h3 {
+  .main-content-text h1 {
     font-size: 1rem;
   }
   .main-content-text p {
@@ -372,9 +372,9 @@ header {
     max-width: 95%;
   }
 
-  .cta-footer {
+  /* .cta-footer {
     background-image: url('../img/image-footer-mobile.jpg');
-  }
+  } */
 
   .overlay p {
     width: 100%;
